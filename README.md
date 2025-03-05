@@ -19,6 +19,14 @@ The Expense Tracker app helps users log their expenses, categorize them, and ana
 - **Interactive Charts**: Visualize spending with Pie and Bar charts powered by Chart.js.
 - **CSV Export**: Download your expenses for offline analysis.
 
+## Screenshots
+Here’s a look at the Expense Tracker app in action:
+
+- **Main Interface**: Add and manage expenses.
+  ![Main Interface](screenshots/expense-tracker1.png)
+- **Visualizations**: Pie and Bar charts of spending.
+  ![Visualizations](screenshots/expense-tracker2.png)
+
 ## Installation
 To run the Expense Tracker locally, follow these steps:
 
